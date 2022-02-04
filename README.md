@@ -23,3 +23,6 @@ response "https://data.cityofnewyork.us/resource/s3k6-pzi2.json" and then clicki
 API "https://data.cityofnewyork.us/resource/f9bf-2cp4.json" to show the details. 
 Unit test is also written to test viewmodel.
 
+Below is the code packging structure : - 
+
+<img width="586" alt="Screen Shot 2022-02-03 at 5 38 52 PM" src="https://user-images.githubusercontent.com/28907710/152592099-9d335166-41c1-4eae-857f-5b2b07c73e46.png">
